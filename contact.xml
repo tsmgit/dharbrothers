@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blacklist" />
+	<group display_name="All Contacts Sujit" ring="" />
+</root_group>
+<root_contact>
+	<contact display_name="Confarence Room" office_number="2019" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Denzil" office_number="2021" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Dona" office_number="2015" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Ea" office_number="2017" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="HR" office_number="2020" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="IT" office_number="2011" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Kajal" office_number="2013" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Kazi" office_number="2018" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Pankaj" office_number="2012" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Pantry" office_number="2024" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Pawan Sir" office_number="2026" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="PC" office_number="2029" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Piyushji" office_number="2028" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Reception" office_number="2016" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Rina" office_number="2027" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Sarita Mam" office_number="2022" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Sharon" office_number="2023" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+	<contact display_name="Sujit" office_number="2025" mobile_number="" other_number="" line="-1" ring="Auto" group_id_name="All Contacts" />
+</root_contact>
